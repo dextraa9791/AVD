@@ -202,5 +202,11 @@
     "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/store/apps/9wzdncrfjbd8",
     "Description": "Xbox 'Console Companion' app (games, friends, etc.)"
+  },
+  {
+    "AppxPackage": "Microsoft.549981C3F5F10",
+    "VDIState": "Disabled",
+    "URL": "https://www.microsoft.com/en-us/p/cortana/9nffx4szz23l",
+    "Description": "Microsoft Cortana"
   }
 ]
